@@ -1,0 +1,138 @@
+.navbar {
+    background-color: rgb(127, 129, 255);
+    font-size: small;
+}
+
+.footerinfoli2 {
+    /* position: absolute;
+top: 311.5%;
+left: 50%; */
+    list-style: none;
+}
+
+.footerinfoli3 {
+    /* position: absolute;
+top: 315%;
+left: 50%; */
+    list-style: none;
+}
+
+.footerinfoa {
+    color: white;
+}
+
+.card {
+    border: white;
+}
+
+.product .card img {
+    width: 100%;
+    height: 375px;
+    object-fit: contain;
+
+}
+
+.footer {
+    margin-top: auto;
+}
+
+.image {}
+
+.text1 {
+    position: relative;
+}
+
+.header2 {
+    font-size: x-large;
+    font-weight: 700;
+    border: rgb(212, 0, 255) 2px solid;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.card {
+    border: rgb(212, 0, 255) 2px solid;
+    margin-top: 10px;
+    margin-left: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.card-text {
+    border: rgb(212, 0, 255) 2px solid;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    font-size: small;
+    font-weight: lighter;
+}
+
+.card-text2 {
+    border: rgb(212, 0, 255) 2px solid;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    font-size: small;
+    font-weight: lighter;
+}
+
+.Publish {
+    color: aliceblue;
+    background-color: blueviolet;
+    border-radius: 4px;
+    background-color: blueviolet;
+
+}
+
+.Delete {
+    color: aliceblue;
+    background-color: blueviolet;
+    border-radius: 4px;
+    background-color: blueviolet;
+}
+.Next-btn{
+    background-color: aqua ;
+    color: whitesmoke;
+    border-radius: 5px;
+    /* border-right: purple;
+    border-bottom: purple; */
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Next-btn:hover {
+    background-color: purple;
+    border-color: antiquewhite;
+    border-width: 3px solid;
+}
+
+.fiNext-btneld button:focus {
+    color: #060606;
+    border-color: rgb(77, 19, 179) 8px;
+}
+
+.btn {
+    margin-left: 10%;
+    background-color: rgb(159, 43, 226);
+    color: aliceblue;
+    border-radius: 8px;
+}
+
+.blog {
+    border: rgb(212, 0, 255) 2px solid;
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: large;
+    margin-left: 40px;
+}
+
+/* .img1 {
+position: relative;
+}
+.text1 {
+position: absolute;
+} */

@@ -1,0 +1,31 @@
+.card {
+    margin-bottom: 10px;
+}
+.card:hover {
+    border: rgb(99, 172, 99) 2px solid;
+}
+.img1 {
+    position: relative;
+    display: flex;
+justify-content: start;
+}
+
+.back-para{
+    color: blue;
+}
+
+.Next-btn {
+    background-color: aqua;
+    color: whitesmoke;
+    border-radius: 5px;
+    /* border-right: purple;
+    border-bottom: purple; */
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Next-btn:hover {
+    background-color: purple;
+    border-color: antiquewhite;
+    border-width: 3px solid;
+}

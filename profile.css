@@ -1,0 +1,101 @@
+.container {
+    width: 881px;
+    height: 948px;
+}
+
+.card {
+    border-color: blueviolet;
+    border-width: 1px;
+}
+
+.card:hover {
+    border-color: blueviolet;
+    border-width: 3px;
+}
+
+.card-body {
+    height: 300px;
+
+}
+
+.picborder {
+    height: 100px;
+    width: 200px;
+    border-color: rgb(127, 133, 255);
+
+}
+
+.pwbtn:hover {
+    border-color: aqua;
+    border-width: 3px;
+}
+
+.pwbtn {
+    border: none;
+    background-color: white;
+}
+
+.line {
+    position: relative;
+    height: 3px;
+    width: 100%;
+    background-color: #7749F8;
+}
+
+.Next-btn {
+    background-color: aqua;
+    color: whitesmoke;
+    border-radius: 5px;
+    /* border-right: purple;
+    border-bottom: purple; */
+    display: flex;
+    justify-content: flex-end;
+}
+
+.Next-btn:hover {
+    background-color: purple;
+    border-color: antiquewhite;
+    border-width: 3px solid;
+}
+
+.picborder:hover {
+    border-color: blueviolet;
+}
+
+.profile-name {
+    font-weight: 600;
+    font-size: larger;
+    border-color: white;
+    border-top: whitesmoke;
+    border-left: white
+}
+
+.profile-name:hover {
+    border-radius: 8px;
+    border-color: rgb(126, 75, 176);
+    border-width: 2px solid;
+}
+
+.password {
+    border-radius: 8px;
+    border-color: rgb(126, 75, 176);
+    border-width: 2px solid;
+}
+
+.password:hover {
+    border-color: #7749F8;
+    border-width: 3px;
+}
+
+.button {
+    color: white;
+    background-color: #7749F8;
+    border-radius: 8px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+
+
+}
